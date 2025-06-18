@@ -17,7 +17,7 @@ This repository contains a comprehensive **Project Overview Dashboard** built wi
 | `projects.csv`             | Master project list                              |
 | `upcoming-projects.csv`    | Upcoming projects data                           |
 | `SQLQuery1.sql`            | SQL query for project and employee analysis      |
-| `Project_Analysis.jpg`     | Dashboard preview image                          |
+| `Project_Analysis.png`     | Dashboard preview image                          |
 
 ---
 
@@ -33,7 +33,7 @@ This repository contains a comprehensive **Project Overview Dashboard** built wi
 
 ## 📸 Dashboard Preview
 
-![Project Overview Dashboard](Project_Analysis.jpg)
+![Project Overview Dashboard](Project_Analysis.png)
 
 ---
 
@@ -51,8 +51,8 @@ This repository contains a comprehensive **Project Overview Dashboard** built wi
 
 1. **Download** all project files from this repository.
 2. **Open** `Dashboard.pbix` in Power BI Desktop or `Dashboard.xlsx` in Excel.
-3. Ensure all CSV files are in the same folder as the dashboard files to maintain data connectivity.
-4. For advanced queries, use `SQLQuery1.sql` in your SQL environment.
+3. Place all CSV files in the same folder as the dashboard files to ensure data connectivity.
+4. For advanced analysis, use `SQLQuery1.sql` with your database environment.
 5. Use the dashboard’s interactive filters to explore departmental and project-level insights.
 
 ---
@@ -71,8 +71,8 @@ This repository contains a comprehensive **Project Overview Dashboard** built wi
 **Lakeesha Veruni**  
 BSc in Physical Science (Statistics & Computer Science)  
 University of Colombo  
-📧 mdlveruni@gmail.com
+mdlveruni@gmail.com
 
 ---
 
-> All data files are incl
+> All data files are included for full reproducibility and exploration. The dashboard preview above demonstrates the interactive and analytical capabilities of this project.
